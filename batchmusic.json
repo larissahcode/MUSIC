@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Filipe Ret"},
+                  "SongTitle": {"S": "Livre e Triste"},
+                  "AlbumTitle": {"S": "Revel"},
+                  "SongYear": {"S": "2015"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Filipe Ret"},
+                  "SongTitle": {"S": "Neurótico de Guerra"},
+                  "AlbumTitle": {"S": "Vivaz"},
+                  "SongYear": {"S": "2012"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Filipe Ret"},
+                  "SongTitle": {"S": "Só precisamos de nós"},
+                  "AlbumTitle": {"S": "Numa Margem Distante"},
+                  "SongYear": {"S": "2009"}
+                }
+            }
+        }
+      ]
+}
